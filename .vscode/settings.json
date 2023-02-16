@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.sh": "shellscript",
+        "*.cpp": "cpp",
+        "memory": "cpp"
+    }
+}
